@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ColeHoffs/portfolio/static/css/main.37b292a3.chunk.css",
+    "main.js": "/ColeHoffs/portfolio/static/js/main.028694e0.chunk.js",
+    "main.js.map": "/ColeHoffs/portfolio/static/js/main.028694e0.chunk.js.map",
+    "runtime-main.js": "/ColeHoffs/portfolio/static/js/runtime-main.44389486.js",
+    "runtime-main.js.map": "/ColeHoffs/portfolio/static/js/runtime-main.44389486.js.map",
+    "static/js/2.efc33acb.chunk.js": "/ColeHoffs/portfolio/static/js/2.efc33acb.chunk.js",
+    "static/js/2.efc33acb.chunk.js.map": "/ColeHoffs/portfolio/static/js/2.efc33acb.chunk.js.map",
+    "static/js/3.debc9890.chunk.js": "/ColeHoffs/portfolio/static/js/3.debc9890.chunk.js",
+    "static/js/3.debc9890.chunk.js.map": "/ColeHoffs/portfolio/static/js/3.debc9890.chunk.js.map",
+    "index.html": "/ColeHoffs/portfolio/index.html",
+    "static/css/main.37b292a3.chunk.css.map": "/ColeHoffs/portfolio/static/css/main.37b292a3.chunk.css.map",
+    "static/js/2.efc33acb.chunk.js.LICENSE.txt": "/ColeHoffs/portfolio/static/js/2.efc33acb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44389486.js",
+    "static/js/2.efc33acb.chunk.js",
+    "static/css/main.37b292a3.chunk.css",
+    "static/js/main.028694e0.chunk.js"
+  ]
+}
