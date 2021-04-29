@@ -1,0 +1,14 @@
+.navcontainer {
+  padding-top: 0;
+  display: flex;
+  justify-content: center;
+}
+.navcontainer a {
+  text-decoration: none;
+  color: white;
+}
+.navcontainer span {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=nav.css.map */

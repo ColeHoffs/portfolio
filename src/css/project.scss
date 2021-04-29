@@ -1,0 +1,41 @@
+body {
+  background-color: #282c34;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  a {
+    text-decoration: none;
+    target: tab;
+  }
+}
+
+.card {
+  color: white;
+  margin: 100px 50px;
+  transition: 0.3s;
+  h2 {
+    text-align: center;
+  }
+  img {
+    -webkit-user-drag: none;
+    height: 400px;
+    width: 325px;
+    border-radius: 5px 5px 5px 5px;
+    object-fit: none;
+    object-position: left;
+
+  }
+}
+
+.card img:hover {
+    transition: 0.25s;
+    filter: blur(2px);
+}
+
+.hidden {
+  display: none;
+}
+
